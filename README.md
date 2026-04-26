@@ -77,7 +77,7 @@
 
 - 📧 Email: [klikmok@yandex.ru](mailto:klikmok@yandex.ru)
 - 💬 Telegram: [@klikmok](https://t.me/klikmok)
-- 📄 Резюме: [github.com/Klikmok/resume](https://github.com/Klikmok/resume)
+- 📄 Резюме: [![Resume](https://img.shields.io/badge/📄_Resume-brightgreen?style=for-the-badge)](https://github.com/Klikmok/resume)
 
 ---
 
